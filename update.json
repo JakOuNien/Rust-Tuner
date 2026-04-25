@@ -1,0 +1,11 @@
+{
+  "version": "v2.1.0",
+  "notes": "Добавлены кастомные бинды, JSON экспорт и система автообновления!",
+  "pub_date": "2026-04-25T10:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdEp0RG42bTZNNXhIV0tGK2VPRlN1RXlqMlE4N2RIR1pUZHMzMUV6amg0ZkVRRU1OMkV3YVVYMEh2b1pqQlhwdnVrbVRZbzhpcUJYUnhMblJ2STlrUWgxejJiVHp5cUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MTU1Mjk5CWZpbGU6cnVzdC10dW5lcl8yLjEuMF94NjRfZW4tVVMubXNpCmJORUJPc0NxSkhFaHVrZ09oUGYzU2Zsak1lOTdjMFRFVnNPWHl6TkVtZ3Jybnl5Z3NFMEJjK0I2TUZkcDkrSGUvWTJKUW5WODhOUUxxWU4yMmdVSkJ3PT0K",
+      "url": "https://github.com/JakOuNien/Rust-Tuner/releases/download/v2.1.0/rust-tuner_2.1.0_x64_en-US.msi"
+    }
+  }
+}
