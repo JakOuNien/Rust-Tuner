@@ -1,48 +1,48 @@
- <div align="center">
-   <img src="https:via.placeholder.com/150/18181b/f97316?text=R" alt="Logo" width="100" height="100">
+<div align="center">
+  <img src="https:via.placeholder.com/150/18181b/f97316?text=R" alt="Logo" width="100" height="100">
 
-   # Rust Tuner
-   **Ультимативный open-source инструмент для Rust. Визуальная настройка биндов, оптимизация графики, калькулятор рейдов и схемы электрики. На 100% безопасно (EAC Safe).**
+  # Rust Tuner
+  **The ultimate open-source tool for Rust. Visual bind configuration, graphics optimization, raid calculator, and electrical schematics. 100% safe (EAC Safe).**
 
-   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-   [![Version](https://img.shields.io/badge/Version-0.1--alpha-orange.svg)]()
-   [![EAC Safe](https://img.shields.io/badge/EAC-Safe-brightgreen.svg)]()
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![Version](https://img.shields.io/badge/Version-2.1-orange.svg)]()
+  [![EAC Safe](https://img.shields.io/badge/EAC-Safe-brightgreen.svg)]()
 
+  [🇺🇸 English](README.md) • [🇷🇺 Русский](README_RU.md) • [🇪🇸 Español](README_ES.md) • [🇺🇦 Українська](README_UK.md) • [🇨🇳 中文](README_ZH.md)
+</div>
 
-   [🇺🇸 English](README_EN.md) • [🇷🇺 Русский](README.md) • [🇪🇸 Español](README_ES.md) • [🇺🇦 Українська](README_UK.md) • [🇨🇳 中文](README_ZH.md)
- </div>
+---
 
- ---
+## 🚀 About the project
 
- ## 🚀 О проекте
+We are tired of paid subscriptions and inconvenient macros. **Rust Tuner** is an open-source project created to give every player access to the best binds, FPS optimization, raid calculations, and electrical schematics in a convenient interface.
 
- Мы устали от платных подписок и неудобных макросов. **Rust Tuner** — это проект с открытым исходным кодом, созданный для того, чтобы дать каждому игроку доступ к лучшим биндам, оптимизации FPS, расчетам рейдов и схемам электрики в удобном интерфейсе.
+**Important:** The program DOES NOT interfere with the game's memory and DOES NOT use Key Injection. We only interact with allowed configuration files (`client.cfg`, `keys.cfg`), which makes the program **100% safe for Easy Anti-Cheat (EAC).**
 
- **Важно:** Программа НЕ вмешивается в память игры и НЕ использует внедрение клавиш (Key Injection). Мы взаимодействуем только с разрешенными конфигурационными файлами (`client.cfg`, `keys.cfg`), что делает программу **на 100% безопасной для Easy Anti-Cheat (EAC).**
+## ✨ Main Features
 
- ## ✨ Главные фичи
+* ⌨️ **Interactive Bind Engine:** Visual keyboard and mouse for configuring hotkeys. From auto-run to complex admin commands.
+* ⚡ **Performance Hub:** Steam launch parameters generator, graphics presets (Potato, PVP Tryhard), and hidden engine variable management (`gc.buffer`, `physics.steps`).
+* 💣 **Advanced Raid Calculator:** Accurate explosives calculation, including Eco-raids (melee weapons, fire arrows) tied to workbenches.
+* 🔌 **Interactive Electricity:** Ready-made schematics, scrap calculator for learning, and resource estimates for crafting.
+* 🌍 **Server Manager:** Save favorite servers, record door passwords (Code Locks) and coordinates.
 
- * ⌨️ **Интерактивный Bind Engine:** Визуальная клавиатура и мышь для настройки горячих клавиш. От автобега до сложных админских команд.
- * ⚡ **Performance Hub:** Генератор параметров запуска Steam, пресеты графики (Potato, PVP Tryhard) и управление скрытыми переменными движка (`gc.buffer`, `physics.steps`).
- * 💣 **Продвинутый Raid Calculator:** Точный подсчет взрывчатки, включая Eco-рейды (оружие ближнего боя, огненные стрелы) с привязкой к верстакам.
- * 🔌 **Интерактивная Электрика:** Готовые чертежи, калькулятор металлолома на изучение и смета ресурсов для крафта.
- * 🌍 **Server Manager:** Сохраняйте любимые серверы, записывайте пароли от дверей (Code Locks) и координаты.
+## 🛠 Installation (In Development)
 
- ## 🛠 Установка (В разработке)
+Currently, the project is in active development and UI design stage. 
+*Compiled `.exe` files will appear in the **Releases** section soon.*
 
- На данный момент проект находится на стадии активной разработки и проектирования UI. 
- *Скомпилированные файлы `.exe` появятся в разделе **Releases** в ближайшее время.*
+## ❤️ Support the author
 
- ## ❤️ Поддержать автора
+This project is developed in my free time and will forever remain free. If Rust Tuner saved your nerves, resources, or saved your base from a raid — you can support the development:
 
- Этот проект разрабатывается в свободное время и навсегда останется бесплатным. Если Rust Tuner сохранил вам нервы, ресурсы или спас ваш дом от рейда — вы можете поддержать разработку:
+* ☕ [Buy Me a Coffee](not available yet)
+* 💎 Cryptocurrency (not available yet)
 
- * ☕ [Buy Me a Coffee](пока нет)
- * 💎 Криптовалюта (пока нет)
+## 🤝 Contributing
 
- ## 🤝 Внести свой вклад (Contributing)
+We welcome any pull requests! If you know a cool bind, a hidden console command to boost FPS, or want to help with translating into other languages — welcome!
 
- Мы рады любым пул-реквестам! Если вы знаете классный бинд, скрытую консольную команду для повышения FPS или хотите помочь с переводом на другие языки — добро пожаловать!
-
- ---
- *Rust Tuner не связан с Facepunch Studios. Rust является зарегистрированной торговой маркой Facepunch Studios.*
+---
+*Rust Tuner is not affiliated with Facepunch Studios. Rust is a registered trademark of Facepunch Studios.*
+EOF
