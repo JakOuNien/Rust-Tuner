@@ -1,11 +1,11 @@
 {
   "version": "3.0.0",
-  "notes": "Добавлен калькулятор",
-  "pub_date": "2026-04-26T10:00:00Z",
+  "notes": "Добавлен модуль комьюнити",
+  "pub_date": "2026-04-27T10:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzJnaHFrV1VPMk9rSVZrZCttUlJOL1pBbEtPOHRkR0xLMWpneGVnblJ2enBrb0hvdUtSU0d4TTNxNll6TXUxU0tpdTVFVURyY3Y5UEJDYWcyclVuYjBBbm1ERWo2MlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MjMzMTk0CWZpbGU6cnVzdC10dW5lcl8zLjAuMF94NjRfZW4tVVMubXNpCmQ0a3RXaFh5bmxmT3dLWDM1ejNjMTBOTmlBZzhndGQwaWRHWHNOaXVDdnU0MTVwdzZ3Tno0Wk5sUHFrTGtsNFR4ZU1zYTJRNCs4TDd4NENRT0ZTZkJBPT0K",
-      "url": "https://github.com/JakOuNien/Rust-Tuner/releases/download/3.0.0/rust-tuner_3.0.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzJnaHFrV1VPMkozaldqN0VJemVxV1NwSUpRbUdYeldlRS9xeEtOUUdodnkvWHh0YU9OQ2ltc0EvYWIwZG1FaGxqaVRMWTZVZ3YrNC9ySGRIc2NVK0Vlell5SGxvOHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MzIxMzY0CWZpbGU6cnVzdC10dW5lcl8zLjEuMF94NjRfZW4tVVMubXNpCmFkbGQxeUtrNHdnSTk0MjVIQW5YN21zd2FLMTBMMFhCYmhZWmRaWWk2cWRoYkxybXhvZEhXbmg2dTZXSFV6K29IdFJMd2FqaktaT3ZORFNjTmJhWkRnPT0K",
+      "url": "https://github.com/JakOuNien/Rust-Tuner/releases/download/3.1.0/rust-tuner_3.1.0_x64_en-US.msi"
     }
   }
 }
