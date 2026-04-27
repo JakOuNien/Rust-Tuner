@@ -4,8 +4,8 @@
   "pub_date": "2026-04-27T10:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzJnaHFrV1VPMkozaldqN0VJemVxV1NwSUpRbUdYeldlRS9xeEtOUUdodnkvWHh0YU9OQ2ltc0EvYWIwZG1FaGxqaVRMWTZVZ3YrNC9ySGRIc2NVK0Vlell5SGxvOHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MzIxMzY0CWZpbGU6cnVzdC10dW5lcl8zLjEuMF94NjRfZW4tVVMubXNpCmFkbGQxeUtrNHdnSTk0MjVIQW5YN21zd2FLMTBMMFhCYmhZWmRaWWk2cWRoYkxybXhvZEhXbmg2dTZXSFV6K29IdFJMd2FqaktaT3ZORFNjTmJhWkRnPT0K",
-      "url": "https://github.com/JakOuNien/Rust-Tuner/releases/download/3.1.0/rust-tuner_3.1.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzJnaHFrV1VPMk9JL053Zjg5TE45WVdCZmR0UHZjakV4b3VzdCtsUlZ3QkxaYTM4b1BZN05vS29Bcis2OWZmZ2JFU2I0aHZGNWRjbkJ5VTRZUXpGT2VZOXk1ZEtjOGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MzI5MDYzCWZpbGU6cnVzdC10dW5lcl8zLjEuMV94NjRfZW4tVVMubXNpClJ2ZHZiWmt5NWsrcUtyUDY3aGZKWHN2MytWOEF0V2tOa1pyYTFIT04vWk1HNHVQTHduOWNmZW9leVFhYTNmWVZ0bkQ5MThOL1dCT1RkRHk1QStBWUNRPT0K",
+      "url": "https://github.com/JakOuNien/Rust-Tuner/releases/download/3.1.1/rust-tuner_3.1.1_x64_en-US.msi"
     }
   }
 }
