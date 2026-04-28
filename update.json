@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzJnaHFrV1VPMkk4cVV4bUpINUpOUHBQQ1dHUVBHb1hIMTlrcWZiSXJNR1YwdGFRZUdEcDRncnEvc2lMZzBobGY1R3dPOEF3M2VieUlUZVZ2SnJNUkdMSjVPWS8wckFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDE2MTQxCWZpbGU6cnVzdC10dW5lcl80LjAuMF94NjRfZW4tVVMubXNpCmJCckNpUnpYZ3VpeEQ4bEtzcm53NmFuZDN0Q3ZVSTBFYjh1ZzFtZjNqYysxSW9aYjA1RDIrcVBGM1ZOODcyUzVqWEJGUTQvU3dSQkNMSHozWVJteEN3PT0K",
-      "url": "[https://github.com/](https://github.com/)JakOuNien/Rust-Tuner/releases/download/4.0.0/rust-tuner_4.0.0_x64_en-US.msi"
+      "url": "https://github.com/JakOuNien/Rust-Tuner/releases/download/4.0.0/rust-tuner_4.0.0_x64_en-US.msi"
     }
   }
 }
