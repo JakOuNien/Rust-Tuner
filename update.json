@@ -1,11 +1,11 @@
 {
-  "version": "3.1.1",
-  "notes": "Добавлен модуль комьюнити",
-  "pub_date": "2026-04-27T10:00:00Z",
+  "version": "4.0.0",
+  "notes": "*   Introduced Electrics module.\n*   Updated Community module.\n*   Revised user profile authentication method.\n*   Addressed minor bugs.",
+  "pub_date": "2026-04-28T23:01:44Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzJnaHFrV1VPMk9JL053Zjg5TE45WVdCZmR0UHZjakV4b3VzdCtsUlZ3QkxaYTM4b1BZN05vS29Bcis2OWZmZ2JFU2I0aHZGNWRjbkJ5VTRZUXpGT2VZOXk1ZEtjOGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MzI5MDYzCWZpbGU6cnVzdC10dW5lcl8zLjEuMV94NjRfZW4tVVMubXNpClJ2ZHZiWmt5NWsrcUtyUDY3aGZKWHN2MytWOEF0V2tOa1pyYTFIT04vWk1HNHVQTHduOWNmZW9leVFhYTNmWVZ0bkQ5MThOL1dCT1RkRHk1QStBWUNRPT0K",
-      "url": "https://github.com/JakOuNien/Rust-Tuner/releases/download/3.1.1/rust-tuner_3.1.1_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbzJnaHFrV1VPMkk4cVV4bUpINUpOUHBQQ1dHUVBHb1hIMTlrcWZiSXJNR1YwdGFRZUdEcDRncnEvc2lMZzBobGY1R3dPOEF3M2VieUlUZVZ2SnJNUkdMSjVPWS8wckFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDE2MTQxCWZpbGU6cnVzdC10dW5lcl80LjAuMF94NjRfZW4tVVMubXNpCmJCckNpUnpYZ3VpeEQ4bEtzcm53NmFuZDN0Q3ZVSTBFYjh1ZzFtZjNqYysxSW9aYjA1RDIrcVBGM1ZOODcyUzVqWEJGUTQvU3dSQkNMSHozWVJteEN3PT0K",
+      "url": "[https://github.com/](https://github.com/)JakOuNien/Rust-Tuner/releases/download/4.0.0/rust-tuner_4.0.0_x64_en-US.msi"
     }
   }
 }
